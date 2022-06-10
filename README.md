@@ -1,5 +1,5 @@
 <h1 align="center">Brandon Creed</h1>
-<h3 align="center">I love collaborating with others to build meaningful projects! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
+<h3 align="center">I love collaborating with others to build meaningful projects!></h3>
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on Full Stack Development projects
