@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on Full Stack Development projects
-- 🌱 I’m currently learning Django and continuing to work with JavaScript, React and Python
+- 🌱 I’m currently learning Django, Express, and Redux while continuing to work with React and Flask
 - 👯 I’m looking to collaborate on projects that will expand on science and tech
 - 💬 Ask me about programming and science
 - 📫 How to reach me: brandon.f.creed@gmail.com
