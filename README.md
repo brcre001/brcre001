@@ -2,10 +2,10 @@
 <h3 align="center">I love collaborating with others to build meaningful projects!></h3>
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on Full Stack Development projects
-- 🌱 I’m currently learning Django, Express, and Redux while continuing to work with React and Flask
+- 🔭 I’m currently working as a Wordpress Developer on Full Stack Development projects
+- 🌱 I’m currently learning Wordpress, and PHP while continuing to use React, and Django on other projects
 - 👯 I’m looking to collaborate on projects that will expand on science and tech
-- 💬 Ask me about programming and science
+- 💬 Ask me about programming, science, and technology
 - 📫 How to reach me: brandon.f.creed@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play ultimate frisbee!
