@@ -15,4 +15,6 @@
 
 ## 📈 Github Stats
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brcre001&langs_count=3&theme=radical&show_icons=true)](https://github.com/brcre001/github-readme-stats) -->
-[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brcre001&theme=radical&show_icons=true)](https://github.com/brcre001/github-readme-stats)
+[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brcre001&theme=highcontrast&show_icons=true)](https://github.com/brcre001/github-readme-stats)
+
+![Brandon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brcre001&theme=highcontrast&layout=compact)
