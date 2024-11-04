@@ -1,5 +1,5 @@
 <h1 align="center">Brandon Creed</h1>
-<h3 align="center">I love collaborating with others to build meaningful projects!></h3>
+<h3 align="center">I love collaborating with others to build meaningful projects!</h3>
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working as a Wordpress Developer on Full Stack Development projects
